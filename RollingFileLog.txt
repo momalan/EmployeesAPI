@@ -1,0 +1,61 @@
+2018-11-30 01:51:29,984(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - 11/30/2018 1:51:29 AM
+2018-11-30 01:51:29,998(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Method: GetEmployees()
+2018-11-30 01:51:30,005(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Request Url: http://localhost:5747/api/employees
+2018-11-30 01:51:30,012(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - HTTP Method: GET
+2018-11-30 01:51:30,019(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Id: 1
+2018-11-30 01:51:30,025(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Name: Muhammed
+2018-11-30 01:51:30,031(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Surname: Malanovic
+2018-11-30 01:51:30,035(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Age: 25
+2018-11-30 01:51:30,040(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Department Id: 0
+2018-11-30 01:51:30,046(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Active: True
+2018-11-30 01:51:30,050(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - 
+2018-11-30 01:51:30,054(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Id: 2
+2018-11-30 01:51:30,059(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Name: John
+2018-11-30 01:51:30,063(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Surname: Casper
+2018-11-30 01:51:30,067(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Age: 28
+2018-11-30 01:51:30,073(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Department Id: 0
+2018-11-30 01:51:30,078(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Active: False
+2018-11-30 01:51:30,086(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - 
+2018-11-30 01:51:30,092(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Id: 3
+2018-11-30 01:51:30,096(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Name: Johnatan
+2018-11-30 01:51:30,102(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Surname: Atkinson
+2018-11-30 01:51:30,106(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Age: 282
+2018-11-30 01:51:30,111(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Department Id: 2
+2018-11-30 01:51:30,116(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Active: True
+2018-11-30 01:51:30,120(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - 
+2018-11-30 01:51:30,125(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Id: 4
+2018-11-30 01:51:30,129(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Name: Johnatan
+2018-11-30 01:51:30,134(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Surname: Atkinson
+2018-11-30 01:51:30,138(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Age: 282
+2018-11-30 01:51:30,143(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Department Id: 1
+2018-11-30 01:51:30,147(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Active: True
+2018-11-30 01:51:30,152(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - 
+2018-11-30 01:51:30,157(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - -------------------------------------------------------------
+2018-11-30 02:01:25,292(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - 11/30/2018 2:01:25 AM
+2018-11-30 02:01:25,301(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Method: GetEmployeeById(int id: 2)
+2018-11-30 02:01:25,306(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Request Url: http://localhost:5747/api/employees/2
+2018-11-30 02:01:25,312(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - HTTP Method: GET
+2018-11-30 02:01:25,317(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Id: 2
+2018-11-30 02:01:25,322(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Name: John
+2018-11-30 02:01:25,328(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Surname: Casper
+2018-11-30 02:01:25,333(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Age: 28
+2018-11-30 02:01:25,338(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Department Id: 0
+2018-11-30 02:01:25,343(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Active: False
+2018-11-30 02:01:25,347(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - 
+2018-11-30 02:01:25,352(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - -------------------------------------------------------------
+2018-11-30 02:01:49,583(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - 11/30/2018 2:01:49 AM
+2018-11-30 02:01:49,588(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Method: DeleteEmployee(int id: 2)
+2018-11-30 02:01:49,594(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Request Url: http://localhost:5747/api/employees/2
+2018-11-30 02:01:49,600(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - HTTP Method: DELETE
+2018-11-30 02:03:12,056(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - 11/30/2018 2:03:12 AM
+2018-11-30 02:03:12,080(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Method: DeleteEmployee(int id: 2)
+2018-11-30 02:03:12,086(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Request Url: http://localhost:5747/api/employees/2
+2018-11-30 02:03:12,092(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - HTTP Method: DELETE
+2018-11-30 02:03:12,098(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Id: 2
+2018-11-30 02:03:12,103(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Name: John
+2018-11-30 02:03:12,108(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Surname: Casper
+2018-11-30 02:03:12,113(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Age: 28
+2018-11-30 02:03:12,118(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Department Id: 0
+2018-11-30 02:03:12,123(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - Active: False
+2018-11-30 02:03:12,127(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - 
+2018-11-30 02:03:12,132(ABSOLUTE) [Employees.Controllers.EmployeesController] INFO - -------------------------------------------------------------

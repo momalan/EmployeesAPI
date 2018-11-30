@@ -1,0 +1,61 @@
+11/30/2018 1:51:29 AM
+Method: GetEmployees()
+Request Url: http://localhost:5747/api/employees
+HTTP Method: GET
+Id: 1
+Name: Muhammed
+Surname: Malanovic
+Age: 25
+Department Id: 0
+Active: True
+
+Id: 2
+Name: John
+Surname: Casper
+Age: 28
+Department Id: 0
+Active: False
+
+Id: 3
+Name: Johnatan
+Surname: Atkinson
+Age: 282
+Department Id: 2
+Active: True
+
+Id: 4
+Name: Johnatan
+Surname: Atkinson
+Age: 282
+Department Id: 1
+Active: True
+
+-------------------------------------------------------------
+11/30/2018 2:01:25 AM
+Method: GetEmployeeById(int id: 2)
+Request Url: http://localhost:5747/api/employees/2
+HTTP Method: GET
+Id: 2
+Name: John
+Surname: Casper
+Age: 28
+Department Id: 0
+Active: False
+
+-------------------------------------------------------------
+11/30/2018 2:01:49 AM
+Method: DeleteEmployee(int id: 2)
+Request Url: http://localhost:5747/api/employees/2
+HTTP Method: DELETE
+11/30/2018 2:03:12 AM
+Method: DeleteEmployee(int id: 2)
+Request Url: http://localhost:5747/api/employees/2
+HTTP Method: DELETE
+Id: 2
+Name: John
+Surname: Casper
+Age: 28
+Department Id: 0
+Active: False
+
+-------------------------------------------------------------
