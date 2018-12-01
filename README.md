@@ -25,6 +25,6 @@ Update `Web.config` file:
     <appender name="FileAppender" type="log4net.Appender.FileAppender">
       `<file value="C:\Users\muham\Desktop\EmployeesForSurface\Employees\MyLogFile.txt" />`
     <appender name="RollingAppender" type="log4net.Appender.RollingFileAppender">
-      `<file value="C:\Users\muham\Desktop\EmployeesForSurface\Employees\RollingFileLog.txt" /> `
+      `<file value="C:\Users\muham\Desktop\EmployeesForSurface\Employees\RollingFileLog.txt" />`
       
 RUN! :)
