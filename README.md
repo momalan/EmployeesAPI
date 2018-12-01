@@ -10,6 +10,15 @@ Available endpoints:
 By default, endpoint returns active employees but it should be possible to return inactive: `..api/department/{departmentId}/employees/{true|false}` 
 
 - POST `..api/employees`  -->  Create new employee.
+
+{
+    "name": "NewEmployeeName",
+    "surname": "NewEmployeeSurname",
+    "age": 28,
+    "active": false,
+    "departmentId": 0
+}
+
 - PUT `..api/employees`  -->  Update existing employee.
 - DELETE `..api/employees/{id}`  -->  Delete existing employee.
 
