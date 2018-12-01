@@ -11,19 +11,15 @@ By default, endpoint returns active employees but it should be possible to retur
 
 - POST `..api/employees`  -->  Create new employee.
 
-{
+`{
 
     "name": "NewEmployeeName",
-    
     "surname": "NewEmployeeSurname",
-    
     "age": 28,
-    
     "active": false,
-    
     "departmentId": 0
     
-}
+}`
 
 - PUT `..api/employees`  -->  Update existing employee.
 - DELETE `..api/employees/{id}`  -->  Delete existing employee.
