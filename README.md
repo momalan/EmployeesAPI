@@ -19,6 +19,7 @@ In solution is included logging(log4net) for next endpoints: (Update is coming s
 - DELETE `..api/employees/{id}`
 
 To run this project you have to load the solution using `Employees.sln` into Visual Studio. 
+
 Update `Web.config` file: 
 
 <log4net>
